@@ -16,8 +16,8 @@
 	"r2_buckets": [
 		{
 			"binding": "bucket",
-			"bucket_name": "r2-explorer-bucket",
-			"preview_bucket_name": "r2-explorer-bucket"
+			"bucket_name": "photoshoot",
+			"preview_bucket_name": "photoshoot"
 		}
 	],
 	"observability": {
